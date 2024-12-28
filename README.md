@@ -4,6 +4,12 @@
 
 > TypeScript
 
+> Shadcn
+
 > Next
 
 > Bun
+
+## Useful Elements
+
+- [ ] Shadcn components
